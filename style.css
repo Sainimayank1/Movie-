@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+   
+}
+
+.navbar{
+    width:100vw;
+    height:50px;
+    background: black;
+    display: flex;
+}
+
+.logo{
+    color:white;
+}
+
+.list-item{
+    color:white;
+}
+
+.profile{
+    color:white;
+}
+
+.sidebar{
+    width:50px;
+    height: 100vh;
+    background: black;
+    position: fixed;
+    top: 0;
+}
